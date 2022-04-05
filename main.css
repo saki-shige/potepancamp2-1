@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+.result{
+  background-color: black;
+}
+
+.stopwach{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.controler{
+  display:flex;
+  margin-top: 20px;
+}
+
+.btn{
+  display:inline-block;
+  border-radius: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+
+
+
